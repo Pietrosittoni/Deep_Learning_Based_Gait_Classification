@@ -6,5 +6,6 @@ This work addresses the classification of six different classes of complicated g
 early recognition and classification of abnormal gait patterns, offering promising avenues for personalized healthcare interventions and advancements in gait analysis. The outcomes of this study can benefit future research endeavors and find applications in the development of commercial products focused on improving gait analysis and personalized healthcare interventions.
 
 We were largely inspidred by the work:
+
 K. Jun, S. Lee, D. -W. Lee and M. S. Kim, "Deep Learning-Based Multimodal Abnormal Gait Classification Using a 3D Skeleton and Plantar Foot Pressure," in IEEE Access, vol. 9, pp. 161576-161589, 2021, doi: 10.1109/ACCESS.2021.3131613.
 In fact many image are taken from that work.
